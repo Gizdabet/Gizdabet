@@ -2,6 +2,7 @@
 
 # I'm a Data Scientist
 
+
 - 🌱 I’m currently learning more about data science
 - 📫 What is the best way to contact me? [Linkedin]([url](https://www.linkedin.com/in/nguyendinhdainhon/))
 - 😄 Pronouns: He/Him

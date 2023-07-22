@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Gizdabet -  aka Nguyen Dinh Dai Nhon
+# 👋 Hi, I’m Gizdabet -  aka Nguyen Dinh Dai Nhon
 
 # I'm a Data Scientist
 
